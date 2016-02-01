@@ -1,0 +1,6 @@
+name: EHMfixer
+version: ${project.version}
+#website:
+author: RoboMWM
+main: me.robomwm.EHMfixer.Main
+depend: [ExtraHardMode]
